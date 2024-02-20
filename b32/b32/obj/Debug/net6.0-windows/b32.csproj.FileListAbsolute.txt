@@ -1,0 +1,17 @@
+C:\Users\yan10\source\repos\b32\b32\bin\Debug\net6.0-windows\b32.exe
+C:\Users\yan10\source\repos\b32\b32\bin\Debug\net6.0-windows\b32.deps.json
+C:\Users\yan10\source\repos\b32\b32\bin\Debug\net6.0-windows\b32.runtimeconfig.json
+C:\Users\yan10\source\repos\b32\b32\bin\Debug\net6.0-windows\b32.dll
+C:\Users\yan10\source\repos\b32\b32\bin\Debug\net6.0-windows\b32.pdb
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\b32.csproj.AssemblyReference.cache
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\b32.frmMainForm.resources
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\b32.csproj.GenerateResource.cache
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\b32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\b32.AssemblyInfoInputs.cache
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\b32.AssemblyInfo.cs
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\b32.csproj.CoreCompileInputs.cache
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\b32.dll
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\refint\b32.dll
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\b32.pdb
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\b32.genruntimeconfig.cache
+C:\Users\yan10\source\repos\b32\b32\obj\Debug\net6.0-windows\ref\b32.dll
