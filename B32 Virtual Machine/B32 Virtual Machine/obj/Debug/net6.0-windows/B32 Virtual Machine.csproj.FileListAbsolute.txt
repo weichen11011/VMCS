@@ -1,0 +1,18 @@
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\B32 Virtual Machine.csproj.AssemblyReference.cache
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\B32_Virtual_Machine.B32Screen.resources
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\B32_Virtual_Machine.MainForm.resources
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\B32 Virtual Machine.csproj.GenerateResource.cache
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\B32 Virtual Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\B32 Virtual Machine.AssemblyInfoInputs.cache
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\B32 Virtual Machine.AssemblyInfo.cs
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\B32 Virtual Machine.csproj.CoreCompileInputs.cache
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\bin\Debug\net6.0-windows\B32 Virtual Machine.exe
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\bin\Debug\net6.0-windows\B32 Virtual Machine.deps.json
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\bin\Debug\net6.0-windows\B32 Virtual Machine.runtimeconfig.json
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\bin\Debug\net6.0-windows\B32 Virtual Machine.dll
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\bin\Debug\net6.0-windows\B32 Virtual Machine.pdb
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\B32 Virtual Machine.dll
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\refint\B32 Virtual Machine.dll
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\B32 Virtual Machine.pdb
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\B32 Virtual Machine.genruntimeconfig.cache
+C:\Users\yan10\source\repos\B32 Virtual Machine\B32 Virtual Machine\obj\Debug\net6.0-windows\ref\B32 Virtual Machine.dll
